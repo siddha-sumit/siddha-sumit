@@ -1,6 +1,7 @@
-- Hi, I’m Sumit Jain
-- I’m interested in Java 8, Springboot, Microservices.
-- I’m currently learning React.Js, AWS.
+Hi, I’m Sumit Jain,
+
+- I’m interested in Java 8, Springboot, Microservices, DSA and SystemDesign.
+- I’m currently learning React.Js, AWS & Kafka.
 - I’m looking to collaborate on open source code.
 - I am reachable at siddha.sumit@gmail.com
 
