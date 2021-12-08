@@ -2,7 +2,7 @@
 - I’m interested in Java 8, Springboot, Microservices.
 - I’m currently learning React.Js, AWS.
 - I’m looking to collaborate on open source code.
-- I am rechable at siddha.sumit@gmail.com
+- I am reachable at siddha.sumit@gmail.com
 
 <!---
 siddha-sumit/siddha-sumit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
